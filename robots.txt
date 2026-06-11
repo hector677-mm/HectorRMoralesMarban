@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap (actualiza con tu URL real de GitHub Pages)
+Sitemap: https://TU_USUARIO.github.io/sitemap.xml

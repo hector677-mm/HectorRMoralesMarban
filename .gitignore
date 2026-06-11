@@ -1,0 +1,7 @@
+# Respaldo local de la foto en alta resolución — NO se publica en el sitio.
+# Se conserva en tu Mac por si necesitas volver a recortarla.
+assets/img/galeria-full.jpg
+
+# Archivos del sistema macOS (todos los subdirectorios)
+.DS_Store
+**/.DS_Store
