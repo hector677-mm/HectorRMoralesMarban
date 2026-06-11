@@ -5,3 +5,8 @@ assets/img/galeria-full.jpg
 # Archivos del sistema macOS (todos los subdirectorios)
 .DS_Store
 **/.DS_Store
+
+# Archivos locales de entorno de desarrollo
+Hi5.code-workspace
+*.code-workspace
+.claude/
