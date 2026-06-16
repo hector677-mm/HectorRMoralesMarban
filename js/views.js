@@ -84,12 +84,17 @@
             <div class="section__body">
               <p data-i18n="profile.p1">Ingeniero en Comunicaciones y Electrónica con más de 15 años de experiencia técnica especializada en la administración de servidores core en entornos de alta criticidad. Experto en Solaris, Oracle Enterprise Linux, RHEL y HP-UX.</p>
               <p data-i18n="profile.p2">Trayectoria comprobada en la gestión de infraestructuras de gran escala (+200 servidores), alta disponibilidad, hardening de seguridad y tuning de sistema operativo para bases de datos y aplicaciones de misión crítica.</p>
+              <p data-i18n="profile.p3">Entusiasta de las tecnologías emergentes — Inteligencia Artificial, Cloud y Arquitectura de TI — busco integrar estas tendencias a la operación diaria de la infraestructura para anticipar riesgos y elevar el valor que entrego a cada cliente.</p>
               <ul class="checklist">
                 <li data-i18n="profile.l1">Planeación, instalación y configuración avanzada de SO</li>
                 <li data-i18n="profile.l2">Hardening para cumplimiento normativo de seguridad</li>
                 <li data-i18n="profile.l3">OS Tuning, Capacity Planning y alta disponibilidad</li>
                 <li data-i18n="profile.l4">Automatización mediante Shell scripting</li>
               </ul>
+              <div class="profile__objective">
+                <span class="section__kicker" data-i18n="profile.objective.kicker">Objetivo profesional</span>
+                <p data-i18n="profile.objective.text">Ampliar mi visión operativa, de negocio y de integración de equipos profesionales, para convertirme en una pieza clave en el diseño de soluciones ideales para distintos clientes.</p>
+              </div>
             </div>
           </div>
         </section>
@@ -220,7 +225,20 @@
               <div class="tl">
                 <div class="tl__dot"></div>
                 <div class="tl__card">
-                  <span class="tl__date">Nov 2014 — <span data-i18n="exp.present">Actualidad</span></span>
+                  <span class="tl__date">Sep 2025 — <span data-i18n="exp.present">Actualidad</span></span>
+                  <h3>MONEX <small>(Grupo de Tecnología Cibernética / Axtel)</small></h3>
+                  <p class="tl__role" data-i18n="exp.lead.role">Líder de Operación Linux/UNIX</p>
+                  <ul>
+                    <li data-i18n="exp.lead.l1">Liderazgo del equipo responsable de la administración de 6 clientes con servidores Linux y UNIX.</li>
+                    <li data-i18n="exp.lead.l2">Continúo como responsable principal del cliente MONEX, garantizando la continuidad operativa de su infraestructura core.</li>
+                    <li data-i18n="exp.lead.l3">Coordinación operativa, supervisión técnica y gestión de prioridades entre clientes.</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tl">
+                <div class="tl__dot"></div>
+                <div class="tl__card">
+                  <span class="tl__date">Nov 2014 — Sep 2025</span>
                   <h3>MONEX <small>(Grupo de Tecnología Cibernética / Axtel)</small></h3>
                   <p class="tl__role" data-i18n="exp.monex.role">Administrador de Infraestructura UNIX Senior</p>
                   <ul>
@@ -338,6 +356,11 @@
               </div>
               <div class="certs__col">
                 <h3 class="certs__h" data-i18n="certs.subedu">Formación académica</h3>
+                <div class="edu">
+                  <h4 data-i18n="certs.edu2.title">Maestría en Tecnologías de la Información e Inteligencia Analítica</h4>
+                  <p>Universidad Anáhuac</p>
+                  <p class="edu__meta">Ene 2026 · <span data-i18n="certs.edu2.status">En curso</span></p>
+                </div>
                 <div class="edu">
                   <h4 data-i18n="certs.edu.title">Ingeniero en Comunicaciones y Electrónica</h4>
                   <p>Instituto Politécnico Nacional — ESIME Zacatenco</p>

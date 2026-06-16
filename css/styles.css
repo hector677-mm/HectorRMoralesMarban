@@ -387,6 +387,15 @@ ul { list-style: none; }
 .edu h4 { font-size: 1.02rem; }
 .edu p { color: var(--ink-soft); font-size: .92rem; }
 .edu__meta { font-size: .85rem !important; margin-top: .3rem; }
+.edu + .edu { margin-top: .9rem; }
+
+.profile__objective {
+  margin-top: 1.6rem; background: var(--surface-alt); border: 1px solid var(--line);
+  border-left: 4px solid var(--teal); border-radius: var(--radius-sm);
+  padding: 1.1rem 1.3rem;
+}
+.profile__objective .section__kicker { margin-bottom: .4rem; }
+.profile__objective p { color: var(--ink-soft); font-size: .94rem; margin: 0; }
 
 /* ===================== STACK / SKILLS ===================== */
 .skills {
