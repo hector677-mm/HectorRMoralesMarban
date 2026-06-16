@@ -226,7 +226,7 @@
                 <div class="tl__dot"></div>
                 <div class="tl__card">
                   <span class="tl__date">Sep 2025 — <span data-i18n="exp.present">Actualidad</span></span>
-                  <h3>MONEX <small>(Grupo de Tecnología Cibernética / Axtel)</small></h3>
+                  <h3>MONEX <small>(Axtel)</small></h3>
                   <p class="tl__role" data-i18n="exp.lead.role">Líder de Operación Linux/UNIX</p>
                   <ul>
                     <li data-i18n="exp.lead.l1">Liderazgo del equipo responsable de la administración de 6 clientes con servidores Linux y UNIX.</li>
