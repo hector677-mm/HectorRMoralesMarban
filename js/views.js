@@ -230,7 +230,7 @@
                   <p class="tl__role" data-i18n="exp.lead.role">Líder de Operación Linux/UNIX</p>
                   <ul>
                     <li data-i18n="exp.lead.l1">Liderazgo del equipo responsable de la administración de 6 clientes con servidores Linux y UNIX.</li>
-                    <li data-i18n="exp.lead.l2">Continúo como responsable principal del cliente MONEX, garantizando la continuidad operativa de su infraestructura core.</li>
+                    <li data-i18n="exp.lead.l2">Responsable principal del cliente MONEX, manteniendo la continuidad operativa de su infraestructura core.</li>
                     <li data-i18n="exp.lead.l3">Coordinación operativa, supervisión técnica y gestión de prioridades entre clientes.</li>
                   </ul>
                 </div>
