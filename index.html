@@ -55,7 +55,29 @@
     <div class="container nav__inner">
 
       <a href="#/" class="nav__brand" aria-label="Inicio">
-        <span class="nav__monogram">HM</span>
+        <svg class="nav__monogram" viewBox="0 0 64 64" aria-hidden="true">
+          <defs>
+            <linearGradient id="logoGrad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#1b6ef3"/>
+              <stop offset="1" stop-color="#17c3b2"/>
+            </linearGradient>
+            <linearGradient id="logoSheen" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#ffffff" stop-opacity=".16"/>
+              <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+            </linearGradient>
+          </defs>
+          <rect width="64" height="64" rx="16" fill="url(#logoGrad)"/>
+          <rect width="64" height="30" rx="16" fill="url(#logoSheen)"/>
+          <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M14,17 L14,47"/>
+            <path d="M14,32 L29,32"/>
+            <path d="M29,17 L29,47"/>
+            <path d="M29,17 L39.5,34 L50,17"/>
+            <path d="M50,17 L50,47"/>
+          </g>
+          <circle cx="53" cy="13" r="6" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="1.1" stroke-dasharray="2 2.4"/>
+          <circle cx="53" cy="13" r="2.6" fill="#ffffff"/>
+        </svg>
         <span class="nav__brandtext">Héctor Morales</span>
       </a>
 
